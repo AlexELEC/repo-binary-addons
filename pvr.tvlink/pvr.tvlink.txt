@@ -1,1 +1,1 @@
-pvr.tvlink https://github.com/AlexELEC/pvr.tvlink-20.git ae
+pvr.tvlink https://github.com/AlexELEC/pvr.tvlink-20 ae
