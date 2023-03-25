@@ -1,1 +1,1 @@
-pvr.tvlink https://github.com/AlexELEC/pvr.tvlink-20 ae
+pvr.tvlink https://github.com/AlexELEC/pvr.tvlink Nexus
